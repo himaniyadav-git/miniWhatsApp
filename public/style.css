@@ -1,0 +1,37 @@
+body{
+    margin-left: 20px;
+    background-color: rgb(62, 230, 174);
+}
+h3{
+    color: whitesmoke;
+    font-size: x-large;
+}
+.chat{
+    background-color: rgb(187, 250, 230);
+    padding: 10px;
+    border-radius: 16px;
+    display: inline-block;
+}
+
+.msg{
+   
+    background-color: rgb(16, 236, 130);
+    color: aliceblue;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+
+#new{
+    padding: 2px 10px;
+    border-radius: 5px;
+    background-color: rgb(229, 245, 238);
+    box-shadow: 5px 10px 5px rgb(22, 66, 53);
+}
+
+.editBtn button{
+    padding: 5px;
+    background-color: rgb(243, 245, 243);
+    border-radius: 2.5px;
+    border-color: antiquewhite;
+    box-shadow: 2px 3px 2.5px;
+}
