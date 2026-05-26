@@ -95,8 +95,8 @@ Timestamp display
 
 Himani Yadav
 
-GitHub: https://github.com/himaniyadav-git
-LinkedIn: https://www.linkedin.com/in/himani-yadav1098/
+GitHub: [himaniyadav-git](https://github.com/himaniyadav-git)
+LinkedIn: [himani-yadav-1098](https://www.linkedin.com/in/himani-yadav1098/)
 
 
 ⭐ Support
