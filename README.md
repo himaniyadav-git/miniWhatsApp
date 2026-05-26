@@ -79,7 +79,7 @@ Chat cards
 Edit/Delete/View buttons
 Sender & Receiver information
 Timestamp display
-<img width="100%" alt="Mini WhatsApp Screenshot" src="./Screenshot.png">
+<img width="100%" alt="Mini WhatsApp Screenshot" src="/Screenshot.png">
 
 🔮 Future Improvements
 
@@ -95,8 +95,8 @@ Timestamp display
 
 Himani Yadav
 
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-linkedin
+GitHub: https://github.com/himaniyadav-git
+LinkedIn: https://www.linkedin.com/in/himani-yadav1098/
 
 
 ⭐ Support
